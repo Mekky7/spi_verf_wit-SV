@@ -1,0 +1,49 @@
+{D:/Digital Verification/Assignments/SV Project/Ram/RAM_package.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/Digital Verification/Assignments/SV Project/Ram/RAM_package.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package RAM_package
+
+Top level modules:
+	--none--
+
+} {} {}} {D:/Digital Verification/Assignments/SV Project/Ram/RAM_tb_if.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/Digital Verification/Assignments/SV Project/Ram/RAM_tb_if.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package RAM_tb_if_sv_unit
+-- Importing package RAM_package
+-- Compiling module RAM_tb_if
+
+Top level modules:
+	RAM_tb_if
+
+} {} {}} {D:/Digital Verification/Assignments/SV Project/Ram/ram.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/Digital Verification/Assignments/SV Project/Ram/ram.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module project_ram
+
+Top level modules:
+	project_ram
+
+} {} {}} {D:/Digital Verification/Assignments/SV Project/Ram/RAM_top.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/Digital Verification/Assignments/SV Project/Ram/RAM_top.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package RAM_top_sv_unit
+-- Importing package RAM_package
+-- Compiling module RAM_top
+
+Top level modules:
+	RAM_top
+
+} {} {}} {D:/Digital Verification/Assignments/SV Project/Ram/MONITOR_if.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/Digital Verification/Assignments/SV Project/Ram/MONITOR_if.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling package MONITOR_if_sv_unit
+-- Importing package RAM_package
+-- Compiling module MONITOR_if
+
+Top level modules:
+	MONITOR_if
+
+} {} {}} {D:/Digital Verification/Assignments/SV Project/Ram/RAM_if.sv} {1 {vlog -work work -vopt -sv -stats=none {D:/Digital Verification/Assignments/SV Project/Ram/RAM_if.sv}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling interface RAM_if
+
+Top level modules:
+	--none--
+
+} {} {}}

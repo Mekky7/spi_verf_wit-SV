@@ -1,0 +1,354 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dD:/Digital Verification/Assignments/SV Project/Filo/SV_final_FIFO
+T_opt
+!s110 1696974503
+Vg2_VEiX8R0LEb7SXPbNH;0
+Z2 04 7 4 work RAM_top fast 0
+=1-145afc4595d3-6525c6a7-157-58dc
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1696978475
+V@:eommFjM`cePlei4Yf>90
+R2
+=1-34e6d7361948-6525d62a-318-186c
+R3
+R4
+R5
+n@_opt1
+R6
+vmonitor
+Z7 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R7
+DXx4 work 11 RAM_package 0 22 ::mk`Ol1CFBKl_;n5naaK0
+Z8 DXx4 work 18 MONITOR_if_sv_unit 0 22 la9<PiYF0]dLREa@82Hj`3
+!s110 1696326445
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 J0g6;>06_hjNVjPBlf>D@2
+IJKYLaNSOkGCT[QXIKJdVl1
+Z10 !s105 MONITOR_if_sv_unit
+S1
+dD:/Digital Verification/Assignments/SV Project/Ram
+w1696325457
+Z11 8MONITOR_if.sv
+Z12 FMONITOR_if.sv
+!i122 55
+Z13 L0 3 27
+Z14 OL;L;2021.1;73
+31
+!s108 1696326445.000000
+Z15 !s107 ram.sv|RAM_tb_if.sv|MONITOR_if.sv|RAM_top.sv|RAM_if.sv|RAM_package.sv|
+Z16 !s90 -reportprogress|300|RAM_package.sv|RAM_if.sv|RAM_top.sv|MONITOR_if.sv|RAM_tb_if.sv|ram.sv|+cover|
+!i113 0
+Z17 !s102 +cover
+Z18 o+cover -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+vMONITOR_if
+R7
+R7
+Z19 DXx4 work 11 RAM_package 0 22 [8LkcdJKmjI>ijMFG?of72
+R8
+Z20 !s110 1696978474
+R9
+r1
+!s85 0
+!i10b 1
+!s100 LGO_JMFn`YRNjnJeo=29J3
+I21Ib`6oSW<R;]g4=f:@3c3
+R10
+S1
+Z21 dD:/Digital Verification/Assignments/SV_final_SPI_RAM/RAM_Project/Ram
+Z22 w1696326986
+R11
+R12
+!i122 121
+R13
+R14
+31
+Z23 !s108 1696978474.000000
+R15
+R16
+!i113 0
+R17
+R18
+R5
+n@m@o@n@i@t@o@r_if
+XMONITOR_if_sv_unit
+R7
+R7
+R19
+R20
+Vla9<PiYF0]dLREa@82Hj`3
+r1
+!s85 0
+!i10b 1
+!s100 LgdN]8]cX;EKaLM[HT9h80
+Ila9<PiYF0]dLREa@82Hj`3
+!i103 1
+S1
+R21
+R22
+R11
+R12
+!i122 121
+Z24 L0 1 0
+R14
+31
+R23
+R15
+R16
+!i113 0
+R17
+R18
+R5
+n@m@o@n@i@t@o@r_if_sv_unit
+vproject_ram
+R7
+R20
+!i10b 1
+!s100 lZN6Q49IfQGREcU1EeH0K3
+ILgjkb1A?8cJlJQ5:>Z7Jn0
+S1
+R21
+w1696974491
+8ram.sv
+Fram.sv
+!i122 121
+L0 1 50
+R9
+R14
+r1
+!s85 0
+31
+R23
+R15
+R16
+!i113 0
+R17
+R18
+R5
+vRAM_assertions
+R7
+!s110 1696978450
+!i10b 1
+!s100 Rglfj<=h>N4h6Efz<6hLa1
+I;a8VRM3OL`SH0L61X``@L3
+S1
+R21
+w1696974488
+8D:/Digital Verification/Assignments/SV_final_SPI_RAM/RAM_Project/Ram/RAM_assertions.sv
+FD:/Digital Verification/Assignments/SV_final_SPI_RAM/RAM_Project/Ram/RAM_assertions.sv
+!i122 116
+L0 1 18
+R9
+R14
+r1
+!s85 0
+31
+!s108 1696978450.000000
+!s107 D:/Digital Verification/Assignments/SV_final_SPI_RAM/RAM_Project/Ram/RAM_assertions.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|D:/Digital Verification/Assignments/SV_final_SPI_RAM/RAM_Project/Ram/RAM_assertions.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+n@r@a@m_assertions
+YRAM_if
+R7
+R20
+!i10b 1
+!s100 mNG5lQlTO;_Wd]Xk9N;n72
+I@l>C6QTU6zCI]d]XEOamK3
+S1
+R21
+w1696974344
+8RAM_if.sv
+FRAM_if.sv
+!i122 121
+R24
+R9
+R14
+r1
+!s85 0
+31
+R23
+R15
+R16
+!i113 0
+R17
+R18
+R5
+n@r@a@m_if
+XRAM_package
+R7
+R20
+!i10b 1
+!s100 mX4B]^TQSW7onU7K:0C]R3
+I[8LkcdJKmjI>ijMFG?of72
+S1
+R21
+w1696972592
+8RAM_package.sv
+FRAM_package.sv
+!i122 121
+R24
+V[8LkcdJKmjI>ijMFG?of72
+R14
+r1
+!s85 0
+31
+R23
+R15
+R16
+!i113 0
+R17
+R18
+R5
+n@r@a@m_package
+vRAM_tb_if
+R7
+R7
+R19
+DXx4 work 17 RAM_tb_if_sv_unit 0 22 SC7A1GUg15e<_o`VWYKhD2
+R20
+R9
+r1
+!s85 0
+!i10b 1
+!s100 `1bd2YMWcP68QX:iLM@CE2
+IN`k<I]B7Mez^_=E3<TYFd3
+!s105 RAM_tb_if_sv_unit
+S1
+R21
+Z25 w1696972590
+Z26 8RAM_tb_if.sv
+Z27 FRAM_tb_if.sv
+!i122 121
+L0 3 56
+R14
+31
+R23
+R15
+R16
+!i113 0
+R17
+R18
+R5
+n@r@a@m_tb_if
+XRAM_tb_if_sv_unit
+R7
+R7
+R19
+R20
+VSC7A1GUg15e<_o`VWYKhD2
+r1
+!s85 0
+!i10b 1
+!s100 T@`6@]CBzMlaeF<QY8D9G0
+ISC7A1GUg15e<_o`VWYKhD2
+!i103 1
+S1
+R21
+R25
+R26
+R27
+!i122 121
+R24
+R14
+31
+R23
+R15
+R16
+!i113 0
+R17
+R18
+R5
+n@r@a@m_tb_if_sv_unit
+vRAM_top
+R7
+R19
+DXx4 work 15 RAM_top_sv_unit 0 22 UJe9>XDHIn@D^9?AEQD1M1
+R20
+R9
+r1
+!s85 0
+!i10b 1
+!s100 6__[mejWn5e^PY:8N9KCG2
+I=PRn:eP`kVEjl`7YN<jY91
+!s105 RAM_top_sv_unit
+S1
+R21
+Z28 w1696974490
+Z29 8RAM_top.sv
+Z30 FRAM_top.sv
+!i122 121
+L0 2 14
+R14
+31
+R23
+R15
+R16
+!i113 0
+R17
+R18
+R5
+n@r@a@m_top
+XRAM_top_sv_unit
+R7
+R19
+R20
+VUJe9>XDHIn@D^9?AEQD1M1
+r1
+!s85 0
+!i10b 1
+!s100 Ez?Jg;K>]I?Yo;C<>UIn23
+IUJe9>XDHIn@D^9?AEQD1M1
+!i103 1
+S1
+R21
+R28
+R29
+R30
+!i122 121
+R24
+R14
+31
+R23
+R15
+R16
+!i113 0
+R17
+R18
+R5
+n@r@a@m_top_sv_unit
